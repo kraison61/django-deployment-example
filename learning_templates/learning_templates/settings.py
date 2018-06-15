@@ -26,7 +26,7 @@ SECRET_KEY = 'l)wib7=c(b1a4xg8bnf$yiaxcxx8vk!w-*o)pi(hkshtzj$1j%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [0.0.0.0]
 
 
 # Application definition
